@@ -10,7 +10,7 @@ export default function Hero({}: Props) {
     const [text, count] = useTypewriter({
         words: [
             "Hi, my name is Panayot Petkov",
-         "Guy-who-constructs-furnitures",
+         "Guy-who-constructs-furniture",
     "<ButLovesTo{Code}Also/>",
     ],       
     loop: true,
