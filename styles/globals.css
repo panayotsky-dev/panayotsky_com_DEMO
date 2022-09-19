@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{                                                                                /* мога да правя custom components css ,но винаги трябва да им слагам @apply за да бъдат приети! :) */
+    .heroButton{
+        @apply px-6 py-2 border border-[#242424] rounded-full uppercase text-xs
+        tracking-widest text-gray-500 transition-all
+         hover:border-[#F74AB0]/40 hover:text-[#2ed3db]/60
+    }
+
+    .contactInput{
+        @apply outline-none bg-slate-400/10 rounded-sm border-b px-6 py-4 border-[#242424]
+        text-gray-500 placeholder-gray-500 transition-all focus:border-[#F74AB0]/40 focus:text-[#F74AB0]/40 hover:border-[#F74AB0]/40
+    }
+}

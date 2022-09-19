@@ -1,0 +1,13 @@
+js - https://img.icons8.com/nolan/344/javascript.png
+html5 - https://img.icons8.com/dusk/344/html-5.png
+css - https://img.icons8.com/external-prettycons-lineal-color-prettycons/344/external-css-web-seo-prettycons-lineal-color-prettycons.png
+tailwindCSS - https://img.icons8.com/color/344/tailwind_css.png
+photoshop - https://img.icons8.com/clouds/344/adobe-photoshop.png
+autocad - https://img.icons8.com/dusk/344/autodesk-autocad.png
+iMos Ix Logo - http://soft-technik.net/php_assets/uploads/2019/08/iX-Support-Center_63188577418e7edb5f561c6e1e965601.png
+Node js - https://img.icons8.com/fluency/344/node-js.png
+typescript - https://img.icons8.com/fluency/344/typescript.png
+
+yarn add -D tailwind-scroll bar 
+[#2ed3db] mint
+[#F74AB0] purpley
