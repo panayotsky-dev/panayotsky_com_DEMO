@@ -2,3 +2,5 @@
  panayotsky.com testing
 you can check it here:
 https://testing-panayotsky-dev.vercel.app
+
+in the close feature i will update the files,because it's not perfect :)
