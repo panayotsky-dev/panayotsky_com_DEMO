@@ -3,4 +3,4 @@
 you can check it here:
 https://testing-panayotsky-dev.vercel.app
 
-in the close feature i will update the files,because it's not perfect :)
+in the close feature i will update the files,because the site is not perfect :)
